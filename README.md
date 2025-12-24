@@ -1,4 +1,4 @@
-# Boston-Housing-Quality-Violation-Analytics-PCA-Based-Interactive-Visualization-
+# Boston-Housing-Quality-Violation-Analytics-PCA-Based-Interactive-Visualization
 
 # CS424 Project
 
